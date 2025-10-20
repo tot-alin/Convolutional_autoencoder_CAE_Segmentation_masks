@@ -54,6 +54,16 @@ The training data consists of 3 RGB images with dimensions of 1024X512X3 and 3 a
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/5852b8d9-4ebf-422d-81aa-50e2b6ee8f89" />
 
+## Loss function graph
+
+The graph shows the decrease in the loss function value in relation to the evolution of iterations (Epocs). If there is a significant increase in the loss function value returned by the validation data, in relation to the loss function values returned by the training data, the model overfits.
+
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/0c912e54-43c0-4bad-a98a-cd4579215fa0" />
+
+## Evolution of predictions during training
+
+<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/28066f82-9326-46af-a30f-e8f48563c884" />
+
 
 
 ## Bibliographer:
