@@ -68,6 +68,8 @@ For a better visualization of the learning process, you can observe the evolutio
 
 ## The graph reflecting the model performance
 
+Model accuracy, resulting from predictions returned using validation data
+
 <img width="1000" height="600" alt="metric" src="https://github.com/user-attachments/assets/381bceee-6ef0-49cf-bef6-cf9e74850150" />
 
 ## Comparison between predictions and reality
