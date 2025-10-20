@@ -49,6 +49,11 @@ The model consists of:
 * The output layer, in this case the output layer is a convolutional layer because it creates compatibility between the size of the data resulting from the previous layer and the annotation form. 
 
 
+## Dataset Training
+The training data consists of 3 RGB images with dimensions of 1024X512X3 and 3 annotations with binary values with dimensions of 1024X512x1.
+
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/5852b8d9-4ebf-422d-81aa-50e2b6ee8f89" />
+
 
 
 ## Bibliographer:
