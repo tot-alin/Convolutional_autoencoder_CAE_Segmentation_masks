@@ -62,6 +62,8 @@ The graph shows the decrease in the loss function value in relation to the evolu
 
 ## Evolution of predictions during training
 
+For a better visualization of the learning process, you can observe the evolution of the prediction of the 3 training data points. 
+
 <img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/28066f82-9326-46af-a30f-e8f48563c884" />
 
 
