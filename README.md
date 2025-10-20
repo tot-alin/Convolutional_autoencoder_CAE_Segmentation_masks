@@ -66,6 +66,20 @@ For a better visualization of the learning process, you can observe the evolutio
 
 <img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/28066f82-9326-46af-a30f-e8f48563c884" />
 
+## The graph reflecting the model performance
+
+
+
+<img width="1000" height="600" alt="metric" src="https://github.com/user-attachments/assets/381bceee-6ef0-49cf-bef6-cf9e74850150" />
+
+## Comparison between predictions and reality
+
+<img width="500" height="774" alt="image" src="https://github.com/user-attachments/assets/8fbfd7bf-6162-4f49-b6ad-08b514463833" /> 
+<img width="399" height="762" alt="image" src="https://github.com/user-attachments/assets/3bc564b1-2fe6-4ba5-a5bf-35a782143fed" />
+<img width="393" height="759" alt="image" src="https://github.com/user-attachments/assets/95d9e8fa-b30b-4672-add1-0f9659a494aa" /> 
+<img width="395" height="748" alt="image" src="https://github.com/user-attachments/assets/46899a7e-c308-447c-9004-66ab6fa98ddc" />
+<img width="408" height="756" alt="image" src="https://github.com/user-attachments/assets/758efdfc-7b77-43a0-bc96-31261d81a494" />
+
 
 
 ## Bibliographer:
